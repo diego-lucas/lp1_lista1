@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diego/code/lp1/lp1_2021_1_lista_1/inverter/src/function.cpp
+function.h
+/home/diego/code/lp1/lp1_2021_1_lista_1/inverter/src/function.h
+iostream
+-
+iterator
+-
+
+/home/diego/code/lp1/lp1_2021_1_lista_1/inverter/src/function.h
+array
+-
+string
+-
+

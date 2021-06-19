@@ -1,0 +1,4 @@
+/home/diego/code/lp1/lp1_2021_1_lista_1/ponto_em_retangulo_2/build/CMakeFiles/rebuild_cache.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/ponto_em_retangulo_2/build/CMakeFiles/edit_cache.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/ponto_em_retangulo_2/build/CMakeFiles/verify.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/ponto_em_retangulo_2/build/CMakeFiles/program.dir

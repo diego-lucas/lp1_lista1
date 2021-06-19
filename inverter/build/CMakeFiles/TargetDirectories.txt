@@ -1,0 +1,7 @@
+/home/diego/code/lp1/lp1_2021_1_lista_1/inverter/build/CMakeFiles/rebuild_cache.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/inverter/build/CMakeFiles/edit_cache.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/inverter/build/CMakeFiles/run_tests.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/inverter/build/CMakeFiles/func.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/inverter/build/tests/CMakeFiles/edit_cache.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/inverter/build/tests/CMakeFiles/all_tests.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/inverter/build/tests/CMakeFiles/rebuild_cache.dir

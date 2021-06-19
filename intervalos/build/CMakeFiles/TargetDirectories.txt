@@ -1,0 +1,4 @@
+/home/diego/code/lp1/lp1_2021_1_lista_1/intervalos/build/CMakeFiles/rebuild_cache.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/intervalos/build/CMakeFiles/edit_cache.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/intervalos/build/CMakeFiles/verify.dir
+/home/diego/code/lp1/lp1_2021_1_lista_1/intervalos/build/CMakeFiles/program.dir
